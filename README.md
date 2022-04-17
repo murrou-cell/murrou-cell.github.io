@@ -1,3 +1,3 @@
-# Header 1
+# Hello!
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+My name is Marin, and I am happy to walk you trough some of my projects :)
